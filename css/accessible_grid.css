@@ -109,6 +109,7 @@ nav ul {
   display: flex;
   flex-flow: row nowrap;
   justify-content: space-around;
+  font-size: 1.5rem;
 }
 
 nav ul li {
@@ -200,10 +201,10 @@ nav ul li {
 }
 #quote {
   font-style: italic;
-  font-size: 3rem;
+  font-size: 2rem;
   color: yellow;
 }
 cite {
-  font-size: 2rem;
+  font-size: 1rem;
   color: yellow;
 }
